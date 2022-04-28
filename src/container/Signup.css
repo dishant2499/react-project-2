@@ -1,0 +1,18 @@
+.anc{
+    margin-left: 450px;
+}
+.anc input{
+    display: block;
+    margin: 10px;
+    width: 350px;
+    border: 2px solid skyblue;
+    padding: 10px;
+    border-radius: 17px;
+}
+button{
+    background-color: aquamarine;
+    padding: 5px;
+    width: 100px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
